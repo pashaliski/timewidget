@@ -17,3 +17,5 @@ Result:
 You can update the css per your website design and colors. With some updates widget can look like screenshot bellow.
 
 ![result](https://i.ibb.co/vLJjJp8/reu.png)
+
+For working example, check index.html file.
